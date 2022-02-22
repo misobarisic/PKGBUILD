@@ -1,0 +1,12 @@
+[submodule "cyberdrop-dl"]
+	path = cyberdrop-dl
+	url = https://aur.archlinux.org/cyberdrop-dl
+[submodule "cyberdrop-dl-git"]
+	path = cyberdrop-dl-git
+	url = https://aur.archlinux.org/cyberdrop-dl-git
+[submodule "podman-tui"]
+	path = podman-tui
+	url = https://aur.archlinux.org/podman-tui
+[submodule "podman-tui-git"]
+	path = podman-tui-git
+	url = https://aur.archlinux.org/podman-tui-git
