@@ -9,4 +9,4 @@ Git submodules do not get fetched automatically when using `git clone`, meaning 
 If you want to skip the previous step, run: `git clone --recurse-submodules https://github.com/misobarisic/PKGBUILD`.
 
 ## AUR profile
-You can my profile [here](https://aur.archlinux.org/account/misobarisic).
+You can find my profile [here](https://aur.archlinux.org/account/misobarisic).
