@@ -10,3 +10,12 @@
 [submodule "podman-tui-git"]
 	path = podman-tui-git
 	url = https://aur.archlinux.org/podman-tui-git
+[submodule "yoku-git"]
+	path = yoku-git
+	url = https://aur.archlinux.org/yoku-git.git
+[submodule "yoku-bin"]
+	path = yoku-bin
+	url = https://aur.archlinux.org/yoku-bin.git
+[submodule "yoku"]
+	path = yoku
+	url = https://aur.archlinux.org/yoku.git
